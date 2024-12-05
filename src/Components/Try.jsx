@@ -45,8 +45,6 @@ const Try = () => {
 
               {/*------ Image Partr End ------*/}
 
-
-
               {/* ^^^^^^^^ Discount Part Start ^^^^^^^^*/}
 
               {item.discount && (
@@ -56,8 +54,6 @@ const Try = () => {
               )}
 
               {/* ^^^^^^^^ Discount Part End ^^^^^^^^*/}
-
-
 
               {/* //////// Text Part Start \\\\\\\\*/}
 
